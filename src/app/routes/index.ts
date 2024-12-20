@@ -7,7 +7,7 @@ const moduleRoutes = [
     // route: Routes,
   },
   {
-    path: '/admin/blogs/:id',
+    path: '/admin',
     // route: Routes,
   },
   {
