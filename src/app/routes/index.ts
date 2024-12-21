@@ -8,7 +8,7 @@ const moduleRoutes = [
   },
   {
     path: '/admin',
-    // route: Routes,
+    // route: AdminRoutes,
   },
   {
     path: '/auth',
