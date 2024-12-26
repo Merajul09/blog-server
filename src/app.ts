@@ -12,7 +12,10 @@ app.use(cors());
 
 app.use('/api', router);
 
+// global error handler
 app.use(globalErrorHandler);
+
+// not found
 app.use(notFound);
 
 app.get('/', (req: Request, res: Response) => {
