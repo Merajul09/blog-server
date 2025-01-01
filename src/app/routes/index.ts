@@ -7,11 +7,11 @@ const moduleRoutes = [
     // route: Routes,
   },
   {
-    path: '/user',
+    path: '/users',
     // route: Routes,
   },
   {
-    path: '/admin',
+    path: '/admins',
     // route: Routes,
   },
   {
