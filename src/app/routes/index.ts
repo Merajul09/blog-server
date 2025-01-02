@@ -4,19 +4,19 @@ const router = Router();
 const moduleRoutes = [
   {
     path: '/blogs',
-    // route: Routes,
+    // route: BlogRoutes,
   },
   {
     path: '/users',
-    // route: Routes,
+    // route: UserRoutes,
   },
   {
     path: '/admins',
-    // route: Routes,
+    // route: AdminRoutes,
   },
   {
     path: '/auth',
-    // route: Routes,
+    // route: AuthRoutes,
   },
 ];
 
