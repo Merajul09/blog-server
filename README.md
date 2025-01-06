@@ -1,4 +1,12 @@
 This is blog server.
+
+### Technologies
+
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+
 Where is Admin & User can:
 
 ### Admin:
