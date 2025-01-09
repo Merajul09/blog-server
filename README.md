@@ -22,3 +22,13 @@ Where is Admin & User can:
 - Can create blogs (only when logged in).
 - Can update and delete their own blogs.
 - Cannot perform admin actions.
+
+### Authentication & Authorization
+
+#### Authentication:
+
+Users must log in to perform write, update, and delete operations.
+
+#### Authorization:
+
+Admin and User roles must be differentiated and secured.
