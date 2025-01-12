@@ -38,3 +38,10 @@ Users must log in to perform write, update, and delete operations.
 #### Authorization:
 
 Admin and User roles must be differentiated and secured.
+
+### Blog API
+
+#### A public API for reading blogs:
+
+- Includes blog title, content, author details & other necessary information.
+- Supports search, sorting, and filtering functionalities.
