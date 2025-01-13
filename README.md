@@ -45,3 +45,5 @@ Admin and User roles must be differentiated and secured.
 
 - Includes blog title, content, author details & other necessary information.
 - Supports search, sorting, and filtering functionalities.
+
+more details coming soon...
